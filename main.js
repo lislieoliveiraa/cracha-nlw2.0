@@ -1,7 +1,7 @@
 const linksSocialMedia = {
     github: 'lislieoliveiraa',
-    instagram:'adrianohenriquerocco',
-    facebook:'adrianohenriquerocco'
+    instagram:'',
+    facebook:''
 }
 
 function getGitHubProfileInfos(response) {
